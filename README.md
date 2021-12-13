@@ -48,9 +48,9 @@
 <h3 align="left">Stats: </h3>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=xeroxdev&show_icons=true&theme=dark&locale=en&count_private=true&include_all_commits=true" alt="xeroxdev" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=xeroxdev&theme=dark" alt="xeroxdev" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeroxdev&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="xeroxdev" />
+  <img height="113" src="https://github-readme-stats.vercel.app/api?username=xeroxdev&show_icons=true&theme=dark&locale=en&count_private=true&include_all_commits=true" alt="xeroxdev" />
+  <img height="113" src="https://github-readme-streak-stats.herokuapp.com/?user=xeroxdev&theme=dark" alt="xeroxdev" />
+  <img height="113" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeroxdev&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="xeroxdev" />
 </p>
 
 <h3 align="left">Support: </h3>
